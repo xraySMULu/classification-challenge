@@ -17,13 +17,6 @@ In this Challenge, you'll be creating two classification models to fit the provi
 | spam_detector.ipynb | Main project markup |
 | https://static.bc-edx.com/ai/ail-v-1-0/m13/challenge/spam-data.csv | Data source |
 
-## Visuals and Explanations
-* To depict the analysis we used line graphs, scatter plots and heatmaps. Below is a sample of each as well as the location of the code.
-
-**Base Dataframe Plot**
-![image](Resources/lp11.png)
-Line Graph
-
 ## Documentation
 https://pandas.pydata.org/docs/reference/frame.html
 
